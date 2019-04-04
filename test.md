@@ -2,3 +2,8 @@
 
 kfjbaksdjf
 sdkjfabklsdjf
+
+##Licencja
+
+dsafadsgadsf
+MIT
