@@ -8,3 +8,8 @@ dsfahjklds
 
 kfjbaksdjf
 sdkjfabklsdjf
+
+##Licencja
+
+dsafadsgadsf
+MIT
